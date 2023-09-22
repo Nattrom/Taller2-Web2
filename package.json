@@ -1,0 +1,15 @@
+{
+  "name": "taller-1-web2-segundo-corte",
+  "version": "1.0.0",
+  "description": "La Biblioteca Unicosta requiere el desarrollo una aplicación web que permita almacenar información sobre el préstamo de un libro un archivo de texto(txt) en un servidor web y a su vez permita la descarga de dicho archivo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natalia Romerin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
